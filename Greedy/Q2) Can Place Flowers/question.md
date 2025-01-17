@@ -12,7 +12,7 @@ Output: true<br>
 
 Example 2:<br>
 
-Input: flowerbed = [1,0,0,0,1], n = 2<br>
+Input: C<br>
 Output: false<br>
  
 
